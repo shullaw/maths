@@ -1,1 +1,1 @@
-# essential math for data science
+# essential math for data science (wip)
