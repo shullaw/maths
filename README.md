@@ -1,1 +1,1 @@
-math repo yeah
+# essential math for data science
